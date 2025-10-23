@@ -3,7 +3,7 @@
 > AI-powered goal breakdown and task planning application built with MERN stack (MongoDB, Express.js, React.js, Node.js) and Google Gemini AI.
 
 > ## 🎥 Demo Video
-[Watch the demo video here]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://drive.google.com/ile/d/1ED0QM1rCmj3-cI0HL4QePlycMQElUb3R/view?usp=sharing))
+[Watch the demo video here](https://drive.google.com/ile/d/1ED0QM1rCmj3-cI0HL4QePlycMQElUb3R/view?usp=sharing)
 
 
 ## 🎯 Overview
